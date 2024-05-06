@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/uq-calculator/static/css/main.f93d5a0c.css",
-    "main.js": "/uq-calculator/static/js/main.3841917c.js",
+    "main.js": "/uq-calculator/static/js/main.2a33300b.js",
     "index.html": "/uq-calculator/index.html",
     "main.f93d5a0c.css.map": "/uq-calculator/static/css/main.f93d5a0c.css.map",
-    "main.3841917c.js.map": "/uq-calculator/static/js/main.3841917c.js.map"
+    "main.2a33300b.js.map": "/uq-calculator/static/js/main.2a33300b.js.map"
   },
   "entrypoints": [
     "static/css/main.f93d5a0c.css",
-    "static/js/main.3841917c.js"
+    "static/js/main.2a33300b.js"
   ]
 }
